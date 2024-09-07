@@ -227,6 +227,7 @@ tools:
   - 878c27dfea9d
   - b1260bca5fdc
   - b55199c56abd
+  - c4b77883c0a7
   tool_panel_section_label: Graph/Display Data
 - name: plotly_ml_performance_plots
   owner: bgruening
