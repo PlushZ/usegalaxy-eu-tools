@@ -73,6 +73,7 @@ tools:
   revisions:
   - 6d8444408ff1
   - a6318f87f2cd
+  - d6ede73082da
   - e009d8260be2
   - e7449b2c14bf
   tool_panel_section_label: Annotation
@@ -234,6 +235,7 @@ tools:
   - b1260bca5fdc
   - b55199c56abd
   - c4b77883c0a7
+  - cec274db51c0
   tool_panel_section_label: Graph/Display Data
 - name: plotly_ml_performance_plots
   owner: bgruening
@@ -1027,6 +1029,7 @@ tools:
   owner: bgruening
   revisions:
   - 3f33a8ac8891
+  - 66058890173e
   tool_panel_section_label: Metagenomic Analysis
 - name: mafft
   owner: rnateam
